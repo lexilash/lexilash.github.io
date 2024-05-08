@@ -18,11 +18,16 @@ Visual Studio
 Key Features
 
 **Diverse AI:** The game includes three distinct AI adversaries, each equipped with unique pathfinding scripts that contribute to a dynamic and engaging player experience. Future updates may introduce additional AI characters.
+
 **Sound FX:** Atmospheric sounds and a haunting musical theme set the eerie tone of the game, with special audio cues, such as terrifying screeches, triggered upon the player's capture.
+
 **Animations:** All characters are fully animated with varying animations based on their state; characters switch from walking to running animations upon detecting the player, enhancing the game's realism.
+
 **Scripted Events:** The game enriches the narrative through triggered animations and events as the player navigates through designated trigger zones, creating a deeper level of immersion.
+
 **Dialogue:** Story progression is facilitated through dialogue boxes that elaborate the storyline and guide the player through the game's plot.
 System Requirements
+
 
 To ensure optimal performance and user experience, the game has specific hardware and software requirements:
 
