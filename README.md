@@ -1,12 +1,12 @@
 # lexilash.github.io
 
 
-#OVERVIEW
+# OVERVIEW
 The Maize-Maze initiative aimed to create an innovative and immersive game experience, departing from traditional app development. The project's name, Maize-Maze, cleverly reflects the concept—a 3D maze runner horror game set in a haunted corn maze. Initially conceptualized as a 2D top-down maze, the project evolved into a 3D format to enhance realism and engagement, aligning with industry standards.
 
 In Maize-Maze, players navigate through a sinister corn maze, evading malevolent entities. The game challenges players to escape the maze's confines or succumb to the lurking horrors.
 
-##Experience Gained
+## Experience Gained
 
 Throughout the development process, the team gained substantial experience in several key technologies and tools, including:
 
@@ -35,7 +35,7 @@ Storage: 1 ZB available space
 Additional Notes: SSD is required for installation and gameplay.
 Future Enhancements
 
-###For the ongoing development and enhancement of Maize-Maze, the following additions are proposed:
+### For the ongoing development and enhancement of Maize-Maze, the following additions are proposed:
 
 Introduction of new enemy types
 Development of a game prologue to set the stage
