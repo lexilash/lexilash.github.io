@@ -16,7 +16,7 @@ Throughout the development process, the team gained substantial experience in se
 - Git
 - Visual Studio
 
-##Key Features
+## Key Features
 
 **Diverse AI:** The game includes three distinct AI adversaries, each equipped with unique pathfinding scripts that contribute to a dynamic and engaging player experience. Future updates may introduce additional AI characters.
 
@@ -36,7 +36,7 @@ System Requirements
 - A speaker
 
 
-##Future Enhancements
+## Future Enhancements
 
 ### For the ongoing development and enhancement of Maize-Maze, the following additions are proposed:
 
