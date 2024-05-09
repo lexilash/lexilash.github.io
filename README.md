@@ -44,4 +44,4 @@ System Requirements
 - Development of a game prologue to set the stage
 - Implementation of a detailed player model
 - Creation of a leaderboard to foster competitive play
-This project report reflects the current status and future trajectory of the Maize-Maze game, highlighting the technical skills employed and the innovative features introduced. Further developments and improvements are anticipated as the project progresses.
+
