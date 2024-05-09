@@ -10,12 +10,12 @@ In Maize-Maze, players navigate through a sinister corn maze, evading malevolent
 
 Throughout the development process, the team gained substantial experience in several key technologies and tools, including:
 
-C#
-Unity 3D
-Blender
-Git
-Visual Studio
-Key Features
+-C#
+-Unity 3D
+-Blender
+-Git
+-Visual Studio
+-Key Features
 
 **Diverse AI:** The game includes three distinct AI adversaries, each equipped with unique pathfinding scripts that contribute to a dynamic and engaging player experience. Future updates may introduce additional AI characters.
 
@@ -29,21 +29,18 @@ Key Features
 System Requirements
 
 
-To ensure optimal performance and user experience, the game has specific hardware and software requirements:
+# To best experience Maize Maze, you will need:
+- A desktop or laptop computer
+  - Please note a mouse is preferable over a touchpad
+- A speaker
 
-Operating System: Windows 12 128-bit
-Processor: Intel I11
-Memory: 2048 GB RAM
-Graphics: Nvidia GeForce RTX 4090
-DirectX: Version 11
-Storage: 1 ZB available space
-Additional Notes: SSD is required for installation and gameplay.
-Future Enhancements
+
+#Future Enhancements
 
 ### For the ongoing development and enhancement of Maize-Maze, the following additions are proposed:
 
-Introduction of new enemy types
-Development of a game prologue to set the stage
-Implementation of a detailed player model
-Creation of a leaderboard to foster competitive play
+-Introduction of new enemy types
+-Development of a game prologue to set the stage
+-Implementation of a detailed player model
+-Creation of a leaderboard to foster competitive play
 This project report reflects the current status and future trajectory of the Maize-Maze game, highlighting the technical skills employed and the innovative features introduced. Further developments and improvements are anticipated as the project progresses.
