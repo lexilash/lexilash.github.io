@@ -10,12 +10,13 @@ In Maize-Maze, players navigate through a sinister corn maze, evading malevolent
 
 Throughout the development process, the team gained substantial experience in several key technologies and tools, including:
 
--C#
--Unity 3D
--Blender
--Git
--Visual Studio
--Key Features
+- C#
+- Unity 3D
+- Blender
+- Git
+- Visual Studio
+
+##Key Features
 
 **Diverse AI:** The game includes three distinct AI adversaries, each equipped with unique pathfinding scripts that contribute to a dynamic and engaging player experience. Future updates may introduce additional AI characters.
 
@@ -29,13 +30,13 @@ Throughout the development process, the team gained substantial experience in se
 System Requirements
 
 
-# To best experience Maize Maze, you will need:
+## To best experience Maize Maze, you will need:
 - A desktop or laptop computer
   - Please note a mouse is preferable over a touchpad
 - A speaker
 
 
-#Future Enhancements
+##Future Enhancements
 
 ### For the ongoing development and enhancement of Maize-Maze, the following additions are proposed:
 
