@@ -78,7 +78,7 @@ body {
 
 div.relative {
   position: relative;
-  bottom: 25%;
+  top: 75%;
   left: 50%;
 }
 
