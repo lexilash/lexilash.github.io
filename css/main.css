@@ -84,7 +84,7 @@ div.relative {
 
 .video-container {
   position: absolute;
-  left: 50%;
+  left: 55%;
   bottom: 0;
   transform: translateX(-50%);
   width: 560px; /* Match the width of your iframe */
