@@ -124,7 +124,7 @@ div.relative {
 
 .image-container img {
     display: block; /* This removes any extra space beneath the image */
-    width: 100px; /* Specify the width or keep it responsive */
+    width: 500px; /* Specify the width or keep it responsive */
     height: auto; /* Maintain aspect ratio */
 }
 
