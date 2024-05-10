@@ -82,6 +82,16 @@ div.relative {
   left: 35%;
 }
 
+.video-container {
+  position: absolute;
+  left: 50%;
+  bottom: 0;
+  transform: translateX(-50%);
+  width: 560px; /* Match the width of your iframe */
+  height: 315px; /* Match the height of your iframe */
+  z-index: 20; /* Ensure it's above other content if necessary */
+}
+
 .center {
  width: 50%;
  margin: 0 auto; 
