@@ -78,8 +78,8 @@ body {
 
 div.relative {
   position: relative;
-  top: 75%;
-  left: 50%;
+  top: 100px;
+  left: 40%;
 }
 
 .center {
