@@ -76,6 +76,20 @@ body {
   animation: marquee 30s linear infinite;
 }
 
+
+.column {
+  float: left;
+  width: 50%;
+  padding: 5px;
+}
+
+
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
 @keyframes marquee {
   0% {
     transform: translate3d(0, 0, 0);
