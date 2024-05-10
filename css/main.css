@@ -56,7 +56,7 @@ body {
 .fog-img {
   position: absolute;
   height: 150vh;
-  width: 300vw;
+  width: 100vw;
   z-index: 2;
 }
 
