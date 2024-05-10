@@ -79,7 +79,7 @@ body {
 div.relative {
   position: relative;
   bottom: 50px;
-  border: 3px solid #73AD21;
+  left: 75px;
 }
 .column {
   float: left;
