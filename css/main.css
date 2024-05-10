@@ -109,6 +109,25 @@ div.relative {
   display: table;
 }
 
+.image-container {
+    position: absolute;
+    bottom: 10px; /* Adjust this value based on your footer or other elements */
+}
+
+.left-image {
+    left: 10px; /* Distance from the left edge of the viewport */
+}
+
+.right-image {
+    right: 10px; /* Distance from the right edge of the viewport */
+}
+
+.image-container img {
+    display: block; /* This removes any extra space beneath the image */
+    width: 100px; /* Specify the width or keep it responsive */
+    height: auto; /* Maintain aspect ratio */
+}
+
 @keyframes marquee {
   0% {
     transform: translate3d(0, 0, 0);
