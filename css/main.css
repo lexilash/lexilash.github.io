@@ -81,6 +81,11 @@ div.relative {
   bottom: 50px;
   left: 75px;
 }
+
+.center {
+ width: 50%;
+ margin: 0 auto; 
+}
 .column {
   float: left;
   width: 50%;
